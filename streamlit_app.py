@@ -43,7 +43,7 @@ streamlit.write('The user entered ', fruit_choice)
 
 #import requests
 
-streamlit.text(fruityvice_response)
+#streamlit.text(fruityvice_response)
 
 
 # write your own comment -what does the next line do? 
